@@ -1,0 +1,77 @@
+2022-10-23 00:46:04,376 INFO Singer2 [Singer 3] Singer 3 started
+2022-10-23 00:46:04,376 INFO Singer [Singer 1] Singer 1 started
+2022-10-23 00:46:04,376 INFO Singer1 [Singer 2] Singer 2 started
+2022-10-23 00:46:16,444 INFO Singer2 [Singer 3] Singer 3 ended
+2022-10-23 00:46:17,948 INFO Singer1 [Singer 2] Singer 2 ended
+2022-10-23 00:46:17,948 INFO Singer [Singer 1] Singer 1 ended
+2022-10-23 15:13:25,879 INFO Singer2 [Singer 3] Singer 3 started
+2022-10-23 15:13:25,879 INFO Singer [Singer 1] Singer 1 started
+2022-10-23 15:13:25,879 INFO Singer1 [Singer 2] Singer 2 started
+2022-10-23 15:13:37,961 INFO Singer1 [Singer 2] Singer 2 ended
+2022-10-23 15:13:39,467 INFO Singer [Singer 1] Singer 1 ended
+2022-10-23 15:13:39,467 INFO Singer2 [Singer 3] Singer 3 ended
+2022-10-23 21:13:31,337 INFO Singer2 [Singer 3] started
+2022-10-23 21:13:31,337 INFO Singer1 [Singer 2] started
+2022-10-23 21:13:31,337 INFO Singer [Singer 1] started
+2022-10-23 21:13:43,420 INFO Singer1 [Singer 2] ended
+2022-10-23 21:13:44,927 INFO Singer2 [Singer 3] ended
+2022-10-23 21:13:44,927 INFO Singer [Singer 1] ended
+2022-10-23 21:17:30,915 INFO Main [Main] started
+2022-10-23 21:17:30,918 INFO Singer [Singer 1] started
+2022-10-23 21:17:30,918 INFO Singer1 [Singer 2] started
+2022-10-23 21:17:30,919 INFO Singer2 [Singer 3] started
+2022-10-23 21:17:43,008 INFO Singer1 [Singer 2] ended
+2022-10-23 21:17:44,518 INFO Singer [Singer 1] ended
+2022-10-23 21:17:44,518 INFO Singer2 [Singer 3] ended
+2022-10-23 21:17:44,518 INFO Main [Main] ended
+2022-10-23 21:21:11,604 INFO Main [Main] started
+2022-10-23 21:21:11,607 INFO Singer [Singer 1] started
+2022-10-23 21:21:11,608 INFO Singer1 [Singer 2] started
+2022-10-23 21:21:11,608 INFO Singer2 [Singer 3] started
+2022-10-23 21:21:17,644 INFO Singer [Singer 1] ended
+2022-10-23 21:21:20,667 INFO Singer1 [Singer 2] ended
+2022-10-23 21:21:22,177 INFO Singer2 [Singer 3] ended
+2022-10-23 21:21:22,177 INFO Main [Main] ended
+2022-10-23 21:46:21,922 INFO Main [Main] started
+2022-10-23 21:46:21,924 INFO Singer [Singer 1] started
+2022-10-23 21:46:21,925 INFO Singer1 [Singer 2] started
+2022-10-23 21:46:21,926 INFO Singer2 [Singer 3] started
+2022-10-23 21:47:09,827 INFO Main [Main] started
+2022-10-23 21:47:09,830 INFO Singer [Singer 1] started
+2022-10-23 21:47:09,832 INFO Singer1 [Singer 2] started
+2022-10-23 21:47:09,833 INFO Singer2 [Singer 3] started
+2022-10-23 21:47:21,902 INFO Singer1 [Singer 2] ended
+2022-10-23 21:47:23,415 INFO Singer2 [Singer 3] ended
+2022-10-23 21:47:23,415 INFO Singer [Singer 1] ended
+2022-10-23 21:47:23,415 INFO Main [Main] ended
+2022-10-23 21:48:00,971 INFO Main [Main] started
+2022-10-23 21:48:00,973 INFO Singer [Singer 1] started
+2022-10-23 21:48:00,974 INFO Singer1 [Singer 2] started
+2022-10-23 21:48:00,974 INFO Singer2 [Singer 3] started
+2022-10-23 21:48:13,034 INFO Singer1 [Singer 2] ended
+2022-10-23 21:48:14,543 INFO Singer2 [Singer 3] ended
+2022-10-23 21:48:14,543 INFO Singer [Singer 1] ended
+2022-10-23 21:48:14,544 INFO Main [Main] ended
+2022-10-23 22:01:46,781 INFO Main [Main] started
+2022-10-23 22:01:46,784 INFO Singer [Singer 1] started
+2022-10-23 22:01:46,785 INFO Singer1 [Singer 2] started
+2022-10-23 22:01:46,785 INFO Singer2 [Singer 3] started
+2022-10-23 22:02:00,365 INFO Singer2 [Singer 3] ended
+2022-10-23 22:02:00,365 INFO Singer [Singer 1] ended
+2022-10-23 22:02:00,365 INFO Main [Main] ended
+2022-10-23 22:03:56,675 INFO Main [Main] started
+2022-10-23 22:03:56,678 INFO Singer [Singer 1] started
+2022-10-23 22:03:56,678 INFO Singer1 [Singer 2] started
+2022-10-23 22:03:56,679 INFO Singer2 [Singer 3] started
+2022-10-23 22:04:10,266 INFO Singer [Singer 1] ended
+2022-10-23 22:04:10,266 INFO Singer2 [Singer 3] ended
+2022-10-23 22:04:10,266 INFO Singer1 [Singer 2] ended
+2022-10-23 22:04:10,266 INFO Main [Main] ended
+2022-10-23 22:05:13,606 INFO Main [Main] started
+2022-10-23 22:05:13,609 INFO Singer [Singer 1] started
+2022-10-23 22:05:13,609 INFO Singer1 [Singer 2] started
+2022-10-23 22:05:13,610 INFO Singer2 [Singer 3] started
+2022-10-23 22:05:27,189 INFO Singer [Singer 1] ended
+2022-10-23 22:05:27,189 INFO Singer1 [Singer 2] ended
+2022-10-23 22:05:27,189 INFO Singer2 [Singer 3] ended
+2022-10-23 22:05:27,189 INFO Main [Main] ended
